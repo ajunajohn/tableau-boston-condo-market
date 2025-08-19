@@ -18,7 +18,8 @@ Interactive Tableau dashboards analyzing the Boston condominium market — revea
 - **Microsoft Excel** – Data cleaning and preprocessing  
 
 ## 🔗 Tableau Dashboard
-[**View Interactive Dashboard**](https://public.tableau.com/profile/ajuna.john#!/vizhome/BostonCondo_16080879209600/Story1?publish=yes)
+[**View Story**](https://public.tableau.com/profile/ajuna.john#!/vizhome/BostonCondo_16080879209600/Story1?publish=yes)
+[**View Interactive Dashboard**](https://public.tableau.com/app/profile/ajuna3162/viz/BostonCondoMarketAnalysis_17555904683310/Final_Dashboard)
 
 ## 💡 Key Insights
 - Significant price variation across neighborhoods  
